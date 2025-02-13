@@ -12,7 +12,7 @@ Documentation: http://django-mptt.github.com/django-mptt/
 Discussion group: http://groups.google.com/group/django-mptt-dev
 
 What is Modified Preorder Tree Traversal?
-=======================================
+=====================================
 
 MPTT is a technique for storing hierarchical data in a database. The aim is to
 make retrieval operations very efficient.
